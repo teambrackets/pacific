@@ -1,0 +1,9 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "description": "Web app with signup, login, and user dashboard",
+  "scripts": {
+    "start": "cd backend && npm start",
+    "build": "cd backend && npm run build"
+  }
+}
